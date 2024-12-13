@@ -5,4 +5,5 @@
  - Общий итог находится в [презентации](https://github.com/Kontrosha/team30-hackaton/blob/main/first_iteration_summury.pdf)
  - В папке [eda](https://github.com/Kontrosha/team30-hackaton/tree/main/eda) находятся файлы разведывательного анализа и результирующий сет с очищенными данными
  - В папке [models](https://github.com/Kontrosha/team30-hackaton/tree/main/models) находятся файлы по обучению моделей
+ - 
  
